@@ -1,4 +1,7 @@
+Git Revert Commit 1
+
 This is Sample File 1.
+
 
 
 When some people talk about money
@@ -11,3 +14,6 @@ Like a woman journeying for water
 From a village without a well, then living
 One or two nights like everyone else
 On roast chicken and red wine.
+
+Testing Comparison
+
